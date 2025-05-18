@@ -1,1 +1,1 @@
-# SARPapers: Papers on Skeleton-based Action Recognition
+# SARPapers: Reading list for Skeleton-based Action Recognition
